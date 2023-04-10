@@ -1,0 +1,16 @@
+[
+{
+  "modid": "obvclient",
+  "name": "obvClient",
+  "description": "PvpClient",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["obvGamer"],
+  "credits": "Headzz",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
